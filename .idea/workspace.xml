@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="02bd77cf-978a-4fd0-8a4c-1f3423eac126" name="Changes" comment="Segundo Commit: Removiendo usuario GIT de compañero." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;keiner3119&quot;
+  }
+}</component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="08fa972c-0ac3-4467-8e46-d172c443f791" />
+  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/keiner3119/mcs-productos-KeinerAlbernia.git&quot;,
+    &quot;accountId&quot;: &quot;08fa972c-0ac3-4467-8e46-d172c443f791&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2oacBK8mrqY06l6uZYUmmoP0fWM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven.mcs_products_KeinerAlexanderAlbernia [spring-boot:run].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/USER/Desktop/mcs-productos-Keiner Albernia&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="mcs_products_KeinerAlexanderAlbernia [spring-boot:run]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="cmdOptions" />
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="spring-boot:run" />
+              </list>
+            </option>
+            <option name="multimoduleDir" />
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="projectsCmdOptionValues">
+              <list />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02bd77cf-978a-4fd0-8a4c-1f3423eac126" name="Changes" comment="" />
+      <created>1731110990841</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731110990841</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Primer commit productos CRUD Categorías al 100% y CRUD de Productos al 40%.">
+      <option name="closed" value="true" />
+      <created>1731457172309</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731457172309</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Primer commit productos CRUD Categorías al 100% y CRUD de Productos al 40%.">
+      <option name="closed" value="true" />
+      <created>1731457439277</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731457439277</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Segundo commit de pruebas de concepto.">
+      <option name="closed" value="true" />
+      <created>1731460635812</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731460635812</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Primer commit. CRUD Categorìas el 100% y CRUD de Productos al 40%">
+      <option name="closed" value="true" />
+      <created>1731463987679</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1731463987679</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Commit.">
+      <option name="closed" value="true" />
+      <created>1731464997466</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1731464997466</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Primer Commit con una CRUD al 100% para las Categorìas y 40% para los Productos.">
+      <option name="closed" value="true" />
+      <created>1731467460364</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1731467460364</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Segundo Commit: Ajuste de puertos de levante.">
+      <option name="closed" value="true" />
+      <created>1731468292809</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1731468292809</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Segundo Commit: Ajustando puerto de aplicaciòn y removiendo rama de compañero.">
+      <option name="closed" value="true" />
+      <created>1731468328913</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1731468328913</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Tercer Commit: Removiendo rama de compañero todos los archivos.">
+      <option name="closed" value="true" />
+      <created>1731468378185</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1731468378185</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Cuarto Commit: Estabilizando archivos y proyecto.">
+      <option name="closed" value="true" />
+      <created>1731468460178</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1731468460178</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Quinto Commit: Estabilizando archivos y proyecto.">
+      <option name="closed" value="true" />
+      <created>1731468958696</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1731468958696</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Quinto Commit: Estabilizando archivos y proyecto.">
+      <option name="closed" value="true" />
+      <created>1731469308544</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1731469308544</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Segundo Commit: Removiendo usuario GIT de compañero.">
+      <option name="closed" value="true" />
+      <created>1731469534474</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1731469534474</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Primer commit productos CRUD Categorías al 100% y CRUD de Productos al 40%." />
+    <MESSAGE value="Segundo commit de pruebas de concepto." />
+    <MESSAGE value="Primer commit. CRUD Categorìas el 100% y CRUD de Productos al 40%" />
+    <MESSAGE value="Commit." />
+    <MESSAGE value="Primer Commit con una CRUD al 100% para las Categorìas y 40% para los Productos." />
+    <MESSAGE value="Segundo Commit: Ajuste de puertos de levante." />
+    <MESSAGE value="Segundo Commit: Ajustando puerto de aplicaciòn y removiendo rama de compañero." />
+    <MESSAGE value="Tercer Commit: Removiendo rama de compañero todos los archivos." />
+    <MESSAGE value="Cuarto Commit: Estabilizando archivos y proyecto." />
+    <MESSAGE value="Quinto Commit: Estabilizando archivos y proyecto." />
+    <MESSAGE value="Segundo Commit: Removiendo usuario GIT de compañero." />
+    <option name="LAST_COMMIT_MESSAGE" value="Segundo Commit: Removiendo usuario GIT de compañero." />
+  </component>
+</project>
